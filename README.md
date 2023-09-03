@@ -2,7 +2,7 @@
 My Data Warehouse Group Project
 
 Since this project is using PgAdmin4 connect to Tableau by using SQL, there will have password to log in for both application
-For the PgAdmin part I will save in word file (The SQL) and
+For the PgAdmin part I will save in pdf file name (SQL of OLAP Operation) and
 
 For the Tableau will shared in Tableau Public, you can go through in the link below : 
 https://public.tableau.com/app/profile/abraham.lim/viz/PrecariousDominoEffectUnemploymentsHarrowingPathtoPovertyandHunger/Story1
