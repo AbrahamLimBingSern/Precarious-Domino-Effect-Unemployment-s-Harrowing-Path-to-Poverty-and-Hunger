@@ -1,6 +1,8 @@
 # Precarious-Domino-Effect-Unemployment-s-Harrowing-Path-to-Poverty-and-Hunger
 My Data Warehouse Group Project
 
+![giphy](https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/0c90324b-2147-4c49-87dc-da1697445a44)
+
 Since this project is using PgAdmin4 connect to Tableau by using SQL, there will have password to log in for both application
 For the PgAdmin part I will save in pdf file name (SQL of OLAP Operation) and
 
